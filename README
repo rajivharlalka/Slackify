@@ -1,0 +1,6 @@
+# SLACKIFY
+
+Provides a way to access old slack messages which
+have been hidden due to slack's 90 day policy.
+
+This is currently in development and would have more of overkill tech, such as messages parser using perl and pg_vector for handling searches in PostgreSQL.
